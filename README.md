@@ -1,4 +1,23 @@
-## 👋 Hi I'm SRI VIDYA GADAM
+## 👋 Hi I'm SRI VIDYA GADAM, a CSE Undergrad @ SRU (Class of 2026)
+🎓 Passionate about coding, problem-solving, and building interactive web experiences.
+
+🛠️ Tech Stack & Skills:
+
+Languages: Python, Java, C, SQL
+
+CS Fundamentals: Data Structures & Algorithms
+
+Web Development: HTML, CSS, JavaScript, React (Frontend Focus)
+
+Tools: Git, GitHub, VS Code
+
+🚀 Currently:
+
+Exploring real-world software development
+
+Building projects to strengthen my frontend & DSA skills
+
+Open to internship opportunities in software/web development
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaddam-sri-vidya/) 
 
