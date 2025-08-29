@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data structures with python and sql.<br><br>🌱 I’m currently learning Next.js and Node.js.<br><br>👯 I’m looking to collaborate with new people and explore innovative projects together.<br><br>🤔 I’m seeking help with connecting with new people.<br><br>💬 Ask me about business ideas and code logics.<br><br>📫 How to reach me: gaddamsrividay43@gmail.com<br><br>😄 Pronouns: she/her<br><br>⚡ Fun fact: Talk is cheap, show me the code!
+🔭 I’m currently working on Data structures with python and sql.<br>🌱 I’m currently learning Next.js and Node.js.<br>👯 I’m looking to collaborate with new people and explore innovative projects together.<br>🤔 I’m seeking help with connecting with new people.<br>💬 Ask me about business ideas and code logics.<br>📫 How to reach me: gaddamsrividay43@gmail.com<br><br>😄 Pronouns: she/her<br>⚡ Fun fact: Talk is cheap, show me the code!
 
 
 ## 🌐 Socials:
