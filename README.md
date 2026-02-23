@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Data structures with python and sql.
-<br>🌱 I’m currently learning Next.js and Node.js.<br>
+🔭 I’m currently working as Intern as a Bakend Developer.
+<br>🌱 I’m currently learning Nest.js and Node.js.<br>
 👯 I’m looking to collaborate with new people and explore innovative projects together.<br>
 🤔 I’m seeking help with connecting with new people.<br>
 💬 Ask me about business ideas and code logics.<br>
